@@ -42,6 +42,8 @@ Test Loss: 0.3744
 
 ## Sample Output
 <img width="958" height="780" alt="image" src="https://github.com/user-attachments/assets/28a33e8f-573f-420f-a7a0-6d54dc4628c8" />
+<img width="951" height="747" alt="image" src="https://github.com/user-attachments/assets/dee9b0d6-249f-4b16-8d56-709a0fa90951" />
+
 <img width="972" height="752" alt="image" src="https://github.com/user-attachments/assets/80ea5f2b-fd90-41da-aa2e-fd3db004389d" />
 
 ## 🔚 Conclusion
