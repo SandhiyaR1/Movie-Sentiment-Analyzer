@@ -1,6 +1,8 @@
 # 🎬 Movie-Sentiment-Analyzer
 IMDb Sentiment Analysis - This project is a simple yet effective Sentiment Analysis App built to classify - IMDb movie reviews as Positive 🙂 or Negative 😠.
 
+https://huggingface.co/spaces/sandy-1202/RNN_SENTIMENTAL_ANALYSIS
+
 ## 📚 Dataset
 
 - **Dataset**: IMDB Movie Reviews Dataset (50,000 labeled movie reviews)
